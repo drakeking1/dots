@@ -1,0 +1,33 @@
+@-moz-document url("about:newtab"), url("about:home"), url("about:privatebrowsing") {
+  body.activity-stream {
+    --newtab-wallpaper-color: #1A1A1A !important;
+    background-color: #1A1A1A !important;
+  }
+}
+
+
+body.activity-stream { --newtab-text-primary-color: #E1D7C5 !important; }
+
+@-moz-document url-prefix("about:") {
+  :root {
+    accent-color: #CD8E4F !important;
+    --in-content-accent-color: #CD8E4F !important;
+    --in-content-focus-outline-color: #CD8E4F !important;
+    --button-primary-bgcolor: #CD8E4F !important;
+    --link-color: #CD8E4F !important;
+    --link-color-hover: #CD8E4F !important;
+  }
+}
+
+.logo-and-wordmark-wrapper { display: none !important; }
+
+
+  body.activity-stream {
+    --newtab-background-color-secondary: #1A1A1A !important;
+  }
+  .search-wrapper .search-handoff-button,
+  .search-wrapper input {
+    background-color: #1A1A1A !important;
+    color: #E1D7C5 !important;
+  }
+
