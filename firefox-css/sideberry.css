@@ -1,0 +1,31 @@
+#root.root {--tabs-activated-shadow: inset 0 0 0 1.6px #CD8E4F;}
+#root.root {--tabs-activated-fg: #c061cbff;}
+#root.root {--toolbar-el-overlay-selected-border: #47cfffff;}
+#root.root {--slt-border-radius: 0px;}
+#root.root {--nav-btn-border-radius: 0px;}
+#root.root {--history-item-border-radius: 0px;}
+#root.root {--tabs-lvl-opacity: 100;}
+#root.root {--frame-el-overlay-selected-bg: #fbfbfeff;}
+#root.root {--toolbar-el-overlay-hover-bg: #5e5c64ff;}
+#root.root {--tabs-normal-fg: #fbfbfeff;}
+#root.root {--tabs-activated-bg: #1b1a1aff;}
+#root.root {--bookmarks-border-radius: 0px;}
+#root.root {--tabs-border-radius: 0px;}
+#root.root {--tabs-margin: 1px;}
+
+#root.root {--active-el-bg: #1a1a1aff;}
+#root.root {--btn-border-radius: 0px;}
+#root.root {--nav-hidden-btn-border-radius: 0px;}
+#root.root {--nav-btn-accent: #CD8E4F;}
+#root.root {--frame-bg: #000000;}
+#root.root {--frame-el-overlay-selected-border: #CD8E4F;}
+
+#root.root {--general-border-radius: 0px;}
+#root.root {--general-margin: 0px;}
+#root.root {--toolbar-bg: #000000ff;}
+
+#root.root {
+  --tabs-pinned-height: 40px;
+  --tabs-pinned-width: 40px;
+	--favicons-size: 90px;
+}
